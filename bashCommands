@@ -1,0 +1,4 @@
+((i=10))
+echo "$i"
+echo "$i"
+echo "$i"

@@ -1,0 +1,21 @@
+<!doctype html5>
+
+<html>
+
+<head>
+.redRectangle{
+width:500px;
+background-color:red;
+margin:auto;
+}
+</head>
+
+<body>
+
+<div class='redRectangle'>
+
+</div>
+
+</body>
+
+</html>

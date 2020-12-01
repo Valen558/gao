@@ -1,0 +1,3 @@
+echo "Welcome to script1"
+ls -a
+
