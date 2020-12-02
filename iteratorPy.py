@@ -1,3 +1,8 @@
+print ("There are \
+iterators and generators in Python. They work\
+pretty much the same but iterator is more\
+difficult to use")
+
 class myIteratorClass:
     n=1
     def __iter__(self):
