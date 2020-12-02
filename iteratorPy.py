@@ -12,3 +12,5 @@ iterator=iter(iterObj)
 next(iterObj)
 next(iterObj)
 next(iterObj)
+
+print("this is Python iterator example")
